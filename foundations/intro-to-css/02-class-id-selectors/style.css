@@ -1,0 +1,44 @@
+/* .odd1,.odd2,.odd3{
+background-color: lightpink;
+}
+.odd1{
+
+    font-family: Verdana;
+}
+.odd2{
+
+    font-family: 'Segoe UI';
+}
+.odd3{
+
+    font-family: sans-serif;
+    font-size: 24px;
+}
+#even1 {
+    color: blue;
+    font-size: 36px;
+  }
+  #even2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+  } */
+
+  .odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+  .adjust-font-size {
+    font-size: 24px;
+  }
+  
+  #two {
+    color: #0000ff;
+    font-size: 36px;
+  }
+  #four {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+  }
+  

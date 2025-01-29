@@ -1,0 +1,15 @@
+.back,.back2{
+
+    font-size: 28px;
+    font-family:HELVETICA , Georgia, 'Times New Roman', serif,  ;
+
+}
+.back{
+
+    background-color: black;
+    color: white;
+}
+.back2{
+
+    background-color: yellow;
+}
